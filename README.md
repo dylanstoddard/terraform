@@ -1,4 +1,4 @@
-# TechNova AWS Infrastructure
+# TechNova AWS Infrastructure 
 
 This Terraform project creates a scalable, secure, and highly available AWS infrastructure for TechNova's web application.
 

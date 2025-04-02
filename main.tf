@@ -4,7 +4,7 @@ terraform {
     workspaces {
       name = "terraform"
     }
-  }
+  } 
 
 terraform {
   required_providers {
